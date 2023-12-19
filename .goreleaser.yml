@@ -8,6 +8,7 @@ builds:
     binary: unused-volumes
     goos:
     - linux
+    - windows
     - darwin
     goarch:
     - amd64
